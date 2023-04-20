@@ -1,1 +1,1 @@
-# maney-formatting
+# dollar-cents-converter
